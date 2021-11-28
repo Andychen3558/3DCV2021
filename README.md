@@ -1,4 +1,4 @@
-# DLCV2020
+# 3DCV2021
 
 ## **3D Computer Vision with Deep Learning Applications**
 
